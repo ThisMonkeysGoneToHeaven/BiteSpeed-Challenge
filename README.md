@@ -4,4 +4,4 @@ The challenge problem statement can be accessed <a href='https://drive.google.co
 
 ### Application hosted on Render
 
-Endpoint URL - https://bitespeed-challenge.onrender.com/identify
+Endpoint URL can be accessed <a href='https://bitespeed-challenge.onrender.com/identify' target="_blank">here</a>.
