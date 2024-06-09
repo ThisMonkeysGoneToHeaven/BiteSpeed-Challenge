@@ -6,3 +6,4 @@ dist/
 package-lock.json
 
 prisma/dev.db
+dev.db-journal
