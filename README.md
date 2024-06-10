@@ -12,6 +12,13 @@ Endpoint URL can be accessed <a href='https://bitespeed-challenge.onrender.com/i
 
 <h2> Application installation guideline </h2>
 
+Create a .env file in the root directory and it must have the follwing contents:
+
+```
+DATABASE_URL="file:./dev.db"
+PORT=3000
+```
+
 Install the packages
 
 ```
